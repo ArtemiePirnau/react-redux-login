@@ -1,0 +1,29 @@
+.welcome {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 36px;
+  flex-direction: column;
+  &__text {
+    margin-bottom: 30px;
+  }
+  &__text-name {
+    text-decoration: underline;
+  }
+  &__btn {
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    text-transform: uppercase;
+    background-color: #000;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  &__btn:hover {
+    background-color: #fff;
+    color: #000;
+  }
+}
