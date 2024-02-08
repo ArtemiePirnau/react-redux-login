@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/92051961/199288681-78afcff5-fe8c-41c2-9fb9-c217116a5e12.png)
 # Description
-Login System - write your name, email, password and then it will take you to the Welcome page with your name
+Login System - write your name, email, password and then it will take you to the Welcome page with your name <br/>
 As state management I used Redux
 # Installation
 First of all install all npm packages with the command:
